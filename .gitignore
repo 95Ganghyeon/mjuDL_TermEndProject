@@ -1,2 +1,6 @@
 # 용량이 큰 pre-trained model.h5와 trainig snapshots.h5를 제외
 SourceCode/snapshots/*.h5
+
+# 발표 영상자료 제외
+Documents/60150649_권강현_발표.mov
+Documents/60150649_권강현_발표.mp4

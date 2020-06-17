@@ -10,11 +10,12 @@
 SourceCode/60150649_권강현.ipy
 ```
 
-위 파일 실행에 필요한 pre-trained model.h5와 코드 실행 과정에 생성되는 trainig snapshots.h5은 용량이 너무 크기 때문에 git에 업로드하지 않고 Google Drive에 업로드했습니다.<br>
+위 파일 실행에 필요한 {pre-trained model}.h5와 코드 실행 과정에 생성되는 {trainig snapshots}.h5은 용량이 너무 크기 때문에 git에 업로드하지 않고 Google Drive에 업로드했습니다.<br>
 시간이 오래걸리는 학습을 돌리지 않고 코드의 동작만 확인하고 싶다면, 아래 URL에서 .zip파일을 다운받아 다음 경로에 압축을 풀어주십시오.
 https://drive.google.com/file/d/1WX0UZaDmQBAoGg9C7FUxxfGu8Dh1QP6P/view?usp=sharing
 ```
 SourceCode/sanpshots
+(주의) 해당경로의 폴더가 없다면 생성하면 됩니다.
 (주의) 해당경로에 .zip파일을 풀고 나서 .zip파일은 지워주십시오.
 (주의) 해당경로에는 압축을 풀고 생성된 .h5 파일 11개만 있어야 합니다.
 ```
