@@ -5,9 +5,9 @@
 
 -----
 
-본 파일은 다음 경로에 위치합니다.
+실습을 진행한 주피터 노트북 파일은 다음 경로에 위치합니다.
 ```
-SourceCode/60150649_권강현.ipy
+SourceCode/60150649_권강현.ipynb
 ```
 
 위 파일 실행에 필요한 {pre-trained model}.h5와 코드 실행 과정에 생성되는 {trainig snapshots}.h5은 용량이 너무 크기 때문에 git에 업로드하지 않고 Google Drive에 업로드했습니다.<br>
