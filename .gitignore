@@ -1,0 +1,2 @@
+# 용량이 큰 pre-trained model.h5와 trainig snapshots.h5를 제외
+SourceCode/snapshots/*.h5
